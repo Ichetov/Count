@@ -1,0 +1,12 @@
+
+
+.buttons{
+    width: 150px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 100px;
+    background-color: blanchedalmond;
+    border-radius: 20px;
+}
